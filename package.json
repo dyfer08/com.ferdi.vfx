@@ -1,8 +1,8 @@
 {
   "name": "com.ferdi.vfx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "VFX Graph Collection",
-  "description": "A collection of VFX Graph and Subgraph.",
+  "description": "A collection of VFX graphs and subgraphs.",
   "unity": "2019.1",
   "keywords": [
     "Ferdi",
@@ -22,5 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dyfer08/com.ferdi.vfx.git"
-  }
+  },
+  "type": "tool"
 }
